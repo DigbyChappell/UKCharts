@@ -1,3 +1,7 @@
+"""
+Appends new charts onto existing .csv files
+"""
+
 from Scraper import scraper
 from datefinder import datefinder
 import numpy as np
