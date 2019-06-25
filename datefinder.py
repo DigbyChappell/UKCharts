@@ -1,3 +1,8 @@
+"""
+Finds new chart dates between specified start and end dates -
+warning, the official chart day switched from Sunday to Friday in 2018
+"""
+
 import datetime
 import math
 

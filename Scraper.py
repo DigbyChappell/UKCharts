@@ -1,3 +1,7 @@
+"""
+Scrapes official charts website for new charts between specified dates
+"""
+
 from bs4 import BeautifulSoup
 import urllib.request
 

@@ -1,3 +1,10 @@
+"""
+Work in progress - meant to extract individual artists from collaborative tracks, for example:
+Kanye West's chart performance should include the performance of Estelle ft. Kanye West
+
+Note the artistlist is copied directly from the artists.csv file. This isn't ideal and will be fixed.
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 

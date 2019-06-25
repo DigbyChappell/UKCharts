@@ -1,3 +1,7 @@
+"""
+Creates interactive graph displaying artist performance - warning v. slow
+"""
+
 import numpy as np
 import pandas as pd
 import csv
